@@ -1,0 +1,67 @@
+.h1 {
+  border: 1px solid yellow;
+  font-weight: 100px;
+  width: 360px;
+  height: 60px;
+  margin-top: -8px;
+  margin-left: -8px;
+  background-color: lightyellow;
+  color: olive;
+  padding: 5px 120px;
+}
+.name {
+  color: grey;
+  font-style: italic;
+  font-size: 15px;
+  padding: 5px;
+}
+.menu {
+  border: 1px solid grey;
+  height: 30px;
+  width: 90px;
+  background: lightblue;
+  margin-bottom: 10px;
+  padding: 2px 10px;
+  font-family: cursive;
+}
+.modify {
+  font-size: 20px;
+  color: olive;
+  background-color: lightcyan;
+}
+.content {
+  border: 1px solid pink;
+  background-color: lightcyan;
+}
+.edit {
+  color: olive;
+  font-family: cursive;
+  margin-left: 5px;
+}
+.alighn {
+  font-family: cursive;
+  margin: 30px;
+  margin-top: -20px;
+}
+.position {
+  border-style: outset;
+  width: 160px;
+  color: indigo;
+  font-family: cursive;
+  opacity: 0.7;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+}
+.footer {
+  font-family: cursive;
+  border-style: inset;
+  width: 403px;
+  background-color: grey;
+  opacity: 0.8;
+  margin: 100px;
+  padding: 10px;
+}
+.browser {
+  height: 30vh;
+}
